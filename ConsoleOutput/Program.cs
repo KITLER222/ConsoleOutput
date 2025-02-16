@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace ConsoleOutput
 {
+    /*Задача 1. Print Sum Of Three Integers
+
+Условие: Напишите программу, которая считывает с консоли 3 целых числа и выводит их сумму.
+*/
     internal class Program
     {
         static void Main(string[] args)
